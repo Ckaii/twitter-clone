@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import { useEffect, useState } from "react";
 import useUpdateUserProfile from "../../hooks/useUpdateUserProfile";
 
